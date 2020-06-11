@@ -1,1 +1,1 @@
-# mvn-pro-src hello git
+# mvn-pro-src
